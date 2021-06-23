@@ -1,7 +1,11 @@
 hello
+
 i like the zippy zaps
+
 i'm trying out arduino stuff
+
 please tell me if you know why arduino diagrams sometimes have the word 'HUHU' on 4 digit 7 semgment displays
+
 anyway that's me
 
 <!---
